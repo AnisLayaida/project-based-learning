@@ -1,3 +1,3 @@
-# Simple Hello World Starting point
+# Simple Hello World to start!
 
 print("Hello World")

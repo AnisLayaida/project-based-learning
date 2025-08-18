@@ -1,3 +1,4 @@
+# Letter for the mail!
 # Crete a blank letter to yourself in the future!
 
 print("Today's date is 18/08/25")

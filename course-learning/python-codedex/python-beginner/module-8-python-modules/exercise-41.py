@@ -13,5 +13,5 @@ days_away = (next_birthday - today).days
 if days_away == 0:
     print("🎉 Happy Birthday!!! 🎉")
 else:
-    print(f"My next birthday is in {days_away} days!")
+    print(f"My next birthda is in {days_away} days!")
     print(random_message)
